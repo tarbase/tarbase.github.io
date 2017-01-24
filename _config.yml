@@ -1,0 +1,21 @@
+baseurl: "/"
+url: http://www.tarbase.com
+name: Tarbase
+company_name: Tarbase
+full_company_name: Tarbase, Lda.
+description: DevOps as a Service
+
+paginate: 10
+paginate_path: "/writing/page:num"
+permalink: "/writing/:year/:month/:day/:title/"
+sass:
+  sass_dir: "/assets/css"
+  style: :compressed
+highlighter: rouge
+timezone: 'Europe/Lisbon'
+
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-sass-converter

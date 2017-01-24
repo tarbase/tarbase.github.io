@@ -1,0 +1,10 @@
+# Jekyll specifc files
+_site/
+.sass-cache/
+.jekyll-metadata
+
+# Ruby specific files
+/.bundle/
+/vendor/bundle
+/lib/bundler/man/
+
