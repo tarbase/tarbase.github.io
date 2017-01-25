@@ -12,7 +12,7 @@ This is the code for the [Tarbase website](https://www.tarbase.com).
 ## Docker quick start
 
 As an alternative to installing Ruby and Jekyll, if you're a user of [Docker](https://www.docker.com/) and [Docker
-Compose](https://docs.docker.com/compose/), you can run a Docker image of gruntwork-io that has all the dependencies
+Compose](https://docs.docker.com/compose/), you can run a Docker image of tarbase-com that has all the dependencies
 already setup for you.
 
 On Linux or MacOS (running Docker for Mac):
