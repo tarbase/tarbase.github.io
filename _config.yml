@@ -1,9 +1,9 @@
 baseurl: "/"
-url: http://www.tarbase.com
-name: Tarbase
-company_name: Tarbase
-full_company_name: Tarbase, Lda.
-description: DevOps as a Service
+url: https://tarbase.com
+name: tarbase
+company_name: tarbase
+full_company_name: tarbase, lda.
+description: Building, automating galaxies, stars and clouds
 
 paginate: 10
 paginate_path: "/writing/page:num"
