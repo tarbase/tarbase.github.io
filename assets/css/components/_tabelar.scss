@@ -28,6 +28,13 @@
 				// border-left: solid 1px _palette(border);
 			}
 
+			a {
+				border: 0px;
+				&:hover {
+
+				}
+			}
+
 		}
 
 		&.inactive {
