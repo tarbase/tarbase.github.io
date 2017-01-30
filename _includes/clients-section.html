@@ -3,8 +3,13 @@
     <h2>Our clients</h2>
     <p>We work with amazing clients</p>
     <div class="tabelar">
-      <section><img src="assets/images/clients/passworks.svg" width="250px" /></section>
-      <section><img src="assets/images/clients/tradiio.png" width="250px" /></section>
+      {% for client in site.data.clients %}
+        <section>
+          <a href="{{ client.url }}" target="_blank">
+            <img src="assets/images/{{ client.logo }}" width="250px" alt="{{ client.name }}" />
+          </a>
+        </section>
+      {% endfor %}
     </div>
   </div>
 </section>
