@@ -6,3 +6,7 @@
   name: Tradiio
   logo: clients/tradiio.png
   url: https://tradiio.com
+- slug: HOKO
+  name: HOKO
+  logo: clients/hoko.svg
+  url: https://hokolinks.com
