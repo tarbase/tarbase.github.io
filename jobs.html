@@ -1,0 +1,16 @@
+---
+title: Jobs
+layout: job-offer
+description: Listing of open positions at tarbase
+---
+<div class="features">
+  {% for page in site.categories.jobs reversed %}
+    <section>
+      <span class="icon major fa-thumb-tack"></span>
+      <h3>
+          <a href="{{page.url}}">{{ page.title }}</a>
+      </h3>
+      <p>{{ page.description }}</p>
+    </section>
+  {% endfor %}
+</features>

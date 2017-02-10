@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+  <body class="is-loading">
+    {% unless page.no_sidebar or layout.no_sidebar %}
+      {% include sidebar.html %}
+    {% endunless %}
+    <div id="wrapper">
+      <section id="what-we-do" class="wrapper style1">
+        <div class="inner">
+          <h2>{{ page.title }}</h2>
+          <p>{{ page.description }}</p>
+          {{ content }}
+        </div>
+      </section>
+    </div>
+    {% include footer.html %}
+    {% include scripts.html %}
+  </body>
+</html>
