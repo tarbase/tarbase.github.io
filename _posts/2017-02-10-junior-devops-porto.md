@@ -7,7 +7,7 @@ categories:
 description: ''
 ---
 
-TARBASE is hiring a Junior DevOps to join the team. We are a young, passionate and creative team.
+TARBASE is hiring a Junior DevOps to join the team in Porto (Full-time contract).
 
 ## Requirements:
 
@@ -30,7 +30,7 @@ TARBASE is hiring a Junior DevOps to join the team. We are a young, passionate a
   - Familiarity with Load Balancers, Firewalls, Routing, DMZs
   - Experience with git
 
-##What we offer:
+## What we offer:
 
   - Integration in a young and dynamic team
   - Integration in a fast-growing company
