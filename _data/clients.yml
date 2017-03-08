@@ -10,3 +10,15 @@
   name: HOKO
   logo: clients/hoko.svg
   url: https://hokolinks.com
+- slug: tlantic
+  name: Tlantic
+  logo: clients/tlantic.png
+  url: http://www.tlantic.com
+- slug: bodum
+  name: BODUM
+  logo: clients/bodum.png
+  url: http://www.bodum.com
+- slug: Last2ticket
+  name: LAST2TICKET
+  logo: clients/last2ticket.png
+  url: https://www2.last2ticket.com
