@@ -8,5 +8,5 @@ build:
 
 run:
 	docker run -v $(shell pwd):/src	\
-			   -p 4000:4000 \
-			   -it $(DOCKER_REGISTRY)/tarbase-com:$(DOCKER_TAG)
+				-p 4000:4000 \
+				-it $(DOCKER_REGISTRY)/tarbase-com:$(DOCKER_TAG)
